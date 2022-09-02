@@ -1,15 +1,15 @@
 [![MasterHead](imgs/weatherwithyouLarge.gif)](#)
 
 <h1 align="center"><strong>Hey, I'm Kalinga!</strong></h1>
-<h4 align="center">yup, living the batak life.</h4>
+<h4 align="center"><i>yup, living the batak life.</i></h4>
 
 <br>
 <img align="right" width=400 class="catImg" src="imgs/cat.gif" alt="cats are love.">
 
 
 <!-- <br> -->
-<p>ㅤ<img src="https://komarev.com/ghpvc/?username=hemlomae&label=total%20page%20reloads&color=FC766A&style=flat"
-		alt="iamkcube" /></p>
+<p><img src="https://komarev.com/ghpvc/?username=hemlomae&label=total%20page%20reloads&color=FC766A&style=flat"
+		alt="page reload number" /></p>
 
 
 <p align="left" style="margin-right:28rem; ">
@@ -26,7 +26,7 @@
 	</li>
 	<li style="list-style:none;">
 		<!-- <b> -->
-		💙 Trying to learn <strong>Django</strong> & <strong>Javascript</strong>.
+		🍃 Trying to learn <strong>Django</strong> & <strong>Javascript</strong>.
 		<!-- </b> -->
 	</li>
 	<li style="list-style:none;">
@@ -36,7 +36,7 @@
 	</li>
 	<li style="list-style:none;">
 		<!-- <b> -->
-		🕊️ Email at <a href="mailto:kalingakhatua@gmail.com">kalingakhatua@gmail.com</a>
+		🕊️ Email me at <a href="mailto:kalingakhatua@gmail.com">kalingakhatua@gmail.com</a>
 		<!-- </b> -->
 	</li>
 </ul>
