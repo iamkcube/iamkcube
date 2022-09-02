@@ -40,7 +40,7 @@
 </ul>
 </p>
 
-<!-- <br> -->
+<br>
 <h3 align="left"><strong>Connect with me at :</strong></h3>
 <p class="icon-set" align="left">
 	<a class="icons" href="https://linkedin.com/in/kalingakhatua" target="_blank"><img align="center" height=48 width=48
@@ -52,7 +52,7 @@
 	<a class="icons" href="https://www.hackerrank.com/iamkcube" target="_blank"><img align="center" height=40 width=40
 			src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="iamkcube" />ㅤ</a>
 </p>
-<br>
+<!-- <br> -->
 <h3 align="left"><strong>Languages and Tools:</strong></h3>
 <p class="icon-set" align="left">
 	<a class="icons2" href="https://getbootstrap.com" target="_blank" rel="noreferrer">
