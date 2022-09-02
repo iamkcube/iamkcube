@@ -4,7 +4,7 @@
 <h4 align="center">yup, living the batak life.</h4>
 
 <br>
-<img align="right" width=360 class="catImg" src="imgs/cat.gif" alt="cats are love.">
+<img align="right" width=400 class="catImg" src="imgs/cat.gif" alt="cats are love.">
 
 <p> <img src="https://komarev.com/ghpvc/?username=hemlomae&label=total%20page%20reloads&color=FC766A&style=flat"
 		alt="iamkcube" /></p>
@@ -14,7 +14,7 @@
 <ul>
 	<li style="list-style:none;color:white">
 		<!-- <b> -->
-		🍁 It's all about <i>aesthetics</i>.
+		🍁 It's all about <i><strong>aesthetics</strong></i>.
 		<!-- </b> -->
 	</li>
 	<li style="list-style:none;">
@@ -24,7 +24,7 @@
 	</li>
 	<li style="list-style:none;">
 		<!-- <b> -->
-		💙 Trying to learn <code><strong>Django</strong></code> & <code><strong>Javascript</strong></code>.
+		💙 Trying to learn <strong>Django</strong> & <strong>Javascript</strong>.
 		<!-- </b> -->
 	</li>
 	<li style="list-style:none;">
