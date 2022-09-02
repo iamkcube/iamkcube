@@ -6,8 +6,9 @@
 <br>
 <img align="right" width=400 class="catImg" src="imgs/cat.gif" alt="cats are love.">
 
-<br>
-<p> <img src="https://komarev.com/ghpvc/?username=hemlomae&label=total%20page%20reloads&color=FC766A&style=flat"
+
+<!-- <br> -->
+<p>ㅤ<img src="https://komarev.com/ghpvc/?username=hemlomae&label=total%20page%20reloads&color=FC766A&style=flat"
 		alt="iamkcube" /></p>
 
 
