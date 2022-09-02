@@ -6,6 +6,7 @@
 <br>
 <img align="right" width=400 class="catImg" src="imgs/cat.gif" alt="cats are love.">
 
+<br>
 <p> <img src="https://komarev.com/ghpvc/?username=hemlomae&label=total%20page%20reloads&color=FC766A&style=flat"
 		alt="iamkcube" /></p>
 
@@ -107,6 +108,6 @@
 </p>
 <br>
 <br>
-<img width=75%
+<img
 	src="https://github-readme-stats.vercel.app/api?username=iamkcube&show_icons=true&custom_title=iamkcube%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=22272e&text_color=adbac7&icon_color=FC766A&title_color=5B84B1"
 	alt="My Stats">
