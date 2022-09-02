@@ -8,8 +8,13 @@
 
 
 <!-- <br> -->
-<p><img src="https://komarev.com/ghpvc/?username=hemlomae&label=total%20page%20reloads&color=FC766A&style=flat"
-		alt="page reload number" /></p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=hemlomae&label=total%20page%20reloads&color=FC766A&style=flat">
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=hemlomae&label=total%20page%20reloads&color=5B84B1&style=flat">
+  <img alt="page reload number" src="https://komarev.com/ghpvc/?username=hemlomae&label=total%20page%20reloads&color=FC766A&style=flat">
+</picture>
+<!-- <p><img src="https://komarev.com/ghpvc/?username=hemlomae&label=total%20page%20reloads&color=5B84B1&style=flat"
+		alt="page reload number" /></p> -->
 
 
 <p align="left" style="margin-right:28rem; ">
