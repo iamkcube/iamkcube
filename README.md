@@ -1,14 +1,14 @@
-<!-- [![MasterHead](imgs/weatherwithyouLarge.gif)](#) -->
+[![MasterHead](imgs/weatherwithyouLarge.gif)](#)
 
 <h1 align="center"><strong>Hey, I'm Kalinga!</strong></h1>
-<h5 align="center">yup, living the batak life.</h5>
+<h4 align="center">yup, living the batak life.</h4>
 
 <br>
+<img align="right" width=360 class="catImg" src="imgs/cat.gif" alt="cats are love.">
 
-<p> <img src="https://komarev.com/ghpvc/?username=hemlomae&label=page%20reloaded&color=FC766A&style=flat"
+<p> <img src="https://komarev.com/ghpvc/?username=hemlomae&label=total%20page%20reloads&color=FC766A&style=flat"
 		alt="iamkcube" /></p>
 
-<img align="right" width=360 class="catImg" src="imgs/cat.gif" alt="cats are love.">
 
 <p align="left" style="margin-right:28rem; ">
 <ul>
@@ -19,12 +19,12 @@
 	</li>
 	<li style="list-style:none;">
 		<!-- <b> -->
-		🌻 Currently working on <code>UI/UX</code>.
+		🌻 Currently working on <strong>UI/UX</strong>.
 		<!-- </b> -->
 	</li>
 	<li style="list-style:none;">
 		<!-- <b> -->
-		💙 Trying to learn <code>Django</code> & <code>Javascript</code>.
+		💙 Trying to learn <code><strong>Django</strong></code> & <code><strong>Javascript</strong></code>.
 		<!-- </b> -->
 	</li>
 	<li style="list-style:none;">
@@ -40,17 +40,17 @@
 </ul>
 </p>
 
-<br>
+<!-- <br> -->
 <h3 align="left"><strong>Connect with me at :</strong></h3>
 <p class="icon-set" align="left">
-	<a class="icons" href="https://linkedin.com/in/kalingakhatua" target="blank"><img align="center" height=48 width=48
-			src="imgs/linkedin.svg" alt="kalingakhatua" /></a>
-	<a class="icons" href="https://instagram.com/kalinga._" target="blank"><img align="center" height=48 width=48
-			src="imgs/instagram.svg" alt="kalinga._" /></a>
-	<a class="icons" href="https://www.codechef.com/users/iamkcube" target="blank"><img align="center" height=48
-			width=48 src="imgs/codechef.svg" alt="iamkcube" /></a>
-	<a class="icons" href="https://www.hackerrank.com/iamkcube" target="blank"><img align="center" height=40 width=40
-			src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="iamkcube" /></a>
+	<a class="icons" href="https://linkedin.com/in/kalingakhatua" target="_blank"><img align="center" height=48 width=48
+			src="imgs/linkedin.svg" alt="kalingakhatua" />ㅤ</a>
+	<a class="icons" href="https://instagram.com/kalinga._" target="_blank"><img align="center" height=48 width=48
+			src="imgs/instagram.svg" alt="kalinga._" />ㅤ</a>
+	<a class="icons" href="https://www.codechef.com/users/iamkcube" target="_blank"><img align="center" height=48
+			width=48 src="imgs/codechef.svg" alt="iamkcube" />ㅤ</a>
+	<a class="icons" href="https://www.hackerrank.com/iamkcube" target="_blank"><img align="center" height=40 width=40
+			src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="iamkcube" />ㅤ</a>
 </p>
 <br>
 <h3 align="left"><strong>Languages and Tools:</strong></h3>
