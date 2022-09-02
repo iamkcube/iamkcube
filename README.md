@@ -110,7 +110,7 @@
 <br>
 <br>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iamkcube&show_icons=true&custom_title=iamkcube%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=22272e&text_color=adbac7&icon_color=FC766A&title_color=5B84B1">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=iamkcube&show_icons=true&custom_title=iamkcube%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=0d1117&text_color=adbac7&icon_color=FC766A&title_color=5B84B1">
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=iamkcube&show_icons=true&custom_title=iamkcube%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=ffffff&text_color=000000&icon_color=5B84B1&title_color=FC766A">
-  <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=iamkcube&show_icons=true&custom_title=iamkcube%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=22272e&text_color=adbac7&icon_color=FC766A&title_color=5B84B1">
+  <img alt="My Stats" src="https://github-readme-stats.vercel.app/api?username=iamkcube&show_icons=true&custom_title=iamkcube%27s%20stats%20~&line_height=30&hide_border=true&border_radius=6&bg_color=0d1117&text_color=adbac7&icon_color=FC766A&title_color=5B84B1">
 </picture>
