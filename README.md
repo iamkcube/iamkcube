@@ -31,7 +31,7 @@
 	</li>
 	<li style="list-style:none;">
 		<!-- <b> -->
-		🍃 Trying to learn <strong>Django</strong> & <strong>Javascript</strong>.
+		🍃 Trying to learn <strong>Django</strong> & <strong>React</strong>.
 		<!-- </b> -->
 	</li>
 	<li style="list-style:none;">
